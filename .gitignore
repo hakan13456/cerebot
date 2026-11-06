@@ -1,0 +1,11 @@
+build/
+dist/
+debug/
+.generated_files/
+nbproject/private/
+*.o
+*.d
+*.hex
+*.elf
+*.docx
+*.pdf
